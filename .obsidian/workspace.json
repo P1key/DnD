@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "a07d9a26599fd994",
+    "type": "split",
+    "children": [
+      {
+        "id": "c57baeeb3d8efd7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32e3e6f30402b4be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ваншот/Сюжет-идея.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc425746092c2553",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9655d8d36749673",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30689aaf7ae34d78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdea24966982662d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2159f031ec6fc3bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53e66b48406cf519",
+    "type": "split",
+    "children": [
+      {
+        "id": "43bd11a1c83a0e10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "727b7f5863da833d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ваншот/Сюжет-идея.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "395b6292f990a29e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ваншот/Сюжет-идея.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ed66c3f5a88ee7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d806722aa71f266",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ваншот/Сюжет-идея.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "32e3e6f30402b4be",
+  "lastOpenFiles": [
+    "Ваншот/rep",
+    "2023-08-31.md",
+    "Untitled.canvas",
+    "Ваншот/Сюжет-идея.md",
+    "Ваншот/Враги/Злой маг.pdf",
+    "Ваншот/Состояние/усталость.md",
+    "Ваншот/Состояние",
+    "Ваншот/Персонажи/npc/blank.md",
+    "Ваншот/Локации/Таверны/Белый медведь.md",
+    "Ваншот/Локации/Города/Хилзонд.md",
+    "Ваншот/Локации/Таверны",
+    "Ваншот/Персонажи/npc",
+    "Ваншот/Локации/Города",
+    "Ваншот/Локации",
+    "волк.md",
+    "Ваншот/Враги/Волк.pdf",
+    "Ваншот/Враги",
+    "Ваншот/Новая папка",
+    "Ваншот/Untitled 1/Untitled"
+  ]
+}
