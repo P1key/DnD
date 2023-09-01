@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ваншот/Состояние/усталость.md",
+                "file": "Ваншот/Персонажи/Список случайных имен.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ваншот/Состояние/усталость.md",
+                "file": "Ваншот/Персонажи/Список случайных имен.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ваншот/Состояние/усталость.md",
+                "file": "Ваншот/Персонажи/Список случайных имен.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ваншот/Состояние/усталость.md"
+                "file": "Ваншот/Персонажи/Список случайных имен.md"
               }
             }
           }
@@ -159,11 +160,11 @@
   },
   "active": "8d33dbf4e03e2807",
   "lastOpenFiles": [
+    "Ваншот/Состояние/усталость.md",
     "Ваншот/Сюжет-идея.md",
     "Ваншот/Враги/Ледяной мефит.pdf",
     "Ваншот/Враги/Злой маг.pdf",
     "Ваншот/Враги/Волк.pdf",
-    "Ваншот/Состояние/усталость.md",
     "Ваншот/Персонажи/Список случайных имен.md",
     "Ваншот/Персонажи/npc/blank.md",
     "Ваншот/rep",
