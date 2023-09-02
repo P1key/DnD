@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ваншот/Персонажи/npc/blank.md",
+                "file": "Ваншот/Локации/Таверны/Белый медведь.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ваншот/Персонажи/npc/blank.md",
+                "file": "Ваншот/Локации/Таверны/Белый медведь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ваншот/Персонажи/npc/blank.md",
+                "file": "Ваншот/Локации/Таверны/Белый медведь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ваншот/Персонажи/npc/blank.md"
+                "file": "Ваншот/Локации/Таверны/Белый медведь.md"
               }
             }
           }
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,15 +160,15 @@
   },
   "active": "8d33dbf4e03e2807",
   "lastOpenFiles": [
-    "Ваншот/Локации/Таверны/Белый медведь.md",
-    "Ваншот/Музыка.md",
-    "Ваншот/Персонажи/Список случайных имен.md",
-    "Ваншот/Состояние/усталость.md",
-    "Ваншот/Сюжет-идея.md",
+    "Ваншот/Враги/Волк.pdf",
     "Ваншот/Враги/Ледяной мефит.pdf",
     "Ваншот/Враги/Злой маг.pdf",
-    "Ваншот/Враги/Волк.pdf",
+    "Ваншот/Персонажи/Список случайных имен.md",
+    "Ваншот/Музыка.md",
+    "Ваншот/Сюжет-идея.md",
     "Ваншот/Персонажи/npc/blank.md",
+    "Ваншот/Локации/Таверны/Белый медведь.md",
+    "Ваншот/Состояние/усталость.md",
     "Ваншот/rep",
     "2023-08-31.md",
     "Untitled.canvas",
