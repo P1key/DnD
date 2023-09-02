@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ваншот/Персонажи/Список случайных имен.md",
+                "file": "Ваншот/Музыка.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ваншот/Персонажи/Список случайных имен.md",
+                "file": "Ваншот/Музыка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ваншот/Персонажи/Список случайных имен.md",
+                "file": "Ваншот/Музыка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ваншот/Персонажи/Список случайных имен.md"
+                "file": "Ваншот/Музыка.md"
               }
             }
           }
@@ -160,12 +159,13 @@
   },
   "active": "8d33dbf4e03e2807",
   "lastOpenFiles": [
+    "Ваншот/Персонажи/Список случайных имен.md",
+    "Ваншот/Музыка.md",
     "Ваншот/Состояние/усталость.md",
     "Ваншот/Сюжет-идея.md",
     "Ваншот/Враги/Ледяной мефит.pdf",
     "Ваншот/Враги/Злой маг.pdf",
     "Ваншот/Враги/Волк.pdf",
-    "Ваншот/Персонажи/Список случайных имен.md",
     "Ваншот/Персонажи/npc/blank.md",
     "Ваншот/rep",
     "2023-08-31.md",
